@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+title: "Online Bayesian Inference ETFA 2025"
+type: software
+authors:
+  - family-names: "Arús Setó"
+    given-names: "Adrià"
+    orcid: "https://orcid.org/0009-0002-8777-8116"
+    affiliation: "Wireless Information Networking Group, UAB"
+repository-code: "https://https://github.com/Wireless-Information-Networking/Online_Bayesian_Inference_ETFA_2025"
+url: "https://https://github.com/Wireless-Information-Networking/Online_Bayesian_Inference_ETFA_2025"
+abstract: >-
+  Bayesian PV power forecasting using pvlib and Pyro (for ETFA 2025)
+keywords:
+  - Photovoltaic Forecasting
+  - Online Machine Learning
+  - Bayesian Inference
+  - Bayesian Machine Learning
+  - Uncertainty Quantification
+  - Solar Panel Efficiency
+license: MIT
+version: 4.0.0
+date-released: 2025-06-04
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Arús Setó"
+      given-names: "Adrià"
+      orcid: "https://orcid.org/0009-0002-8777-8116"
+      affiliation: "Wireless Information Networking Group, UAB"
+  title: "Online Bayesian Inference ETFA 2025"
+  year: 2025
+  url: "https://https://github.com/Wireless-Information-Networking/Online_Bayesian_Inference_ETFA_2025"
+  repository-code: "https://https://github.com/Wireless-Information-Networking/Online_Bayesian_Inference_ETFA_2025"
+  abstract: >-
+    Bayesian PV power forecasting using pvlib and Pyro (for ETFA 2025)
+  keywords:
+    - Photovoltaic Forecasting
+    - Online Machine Learning
+    - Bayesian Inference
+    - Bayesian Machine Learning
+    - Uncertainty Quantification
+    - Solar Panel Efficiency
+  license: MIT
+  version: 4.0.0
